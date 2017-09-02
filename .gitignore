@@ -1,0 +1,35 @@
+/bin
+.metadata
+.recommenders/
+ch01-jumpstart/.classpath
+ch01-jumpstart/.project
+ch01-jumpstart/.settings
+ch01-jumpstart/target
+
+ch02-internals/.classpath
+ch02-internals/.project
+ch02-internals/.settings
+ch02-internals/target
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
